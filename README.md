@@ -14,17 +14,17 @@ Customization: Adaptable to different gym setups and membership structures.
 Reporting and Analytics: Track and analyze membership, attendance, and revenue data.
 Notification System: Automated alerts and reminders for members and staff.
 Technologies Used
-Frontend: HTML, CSS, JavaScript (frameworks if applicable)
-Backend: [Specify backend technologies or languages]
-Database: [Database system or storage used]
+Frontend: HTML, CSS3, JavaScript ( ReactJS )
+Backend: ExpressJS
+Database: MongoDB
 Getting Started
 To run the Gym Manager website locally, follow these steps:
 
 Clone the repository: git clone https://github.com/YourUsername/GymManager.git
 Install dependencies if applicable.
 Set up the database and configure environment variables.
-Run the application using [instructions or commands].
-Contribution
+Run the application using `npm install` and `npm start`.
+#Contribution
 We welcome contributions to enhance the Gym Manager website. If you'd like to contribute, please follow these steps:
 
 Fork the repository.
@@ -33,7 +33,7 @@ Commit your changes: git commit -m 'Add a new feature'
 Push to the branch: git push origin feature/new-feature
 Submit a pull request.
 License
-This project is licensed under the [Your License]. For more details, refer to the LICENSE file.
+This project is licensed under the MIT. For more details, refer to the LICENSE file.
 
 Contact
-For inquiries or support, please contact [Your Email or Contact Information].
+For inquiries or support, please contact ankiycodes@gmail.com.
