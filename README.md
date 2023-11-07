@@ -20,7 +20,7 @@ Database: MongoDB
 Getting Started
 To run the Gym Manager website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/YourUsername/GymManager.git
+Clone the repository: `git clone https://github.com/Ankkiyy/GYMManager.git`
 Install dependencies if applicable.
 Set up the database and configure environment variables.
 Run the application using `npm install` and `npm start`.
